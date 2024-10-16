@@ -1,0 +1,9 @@
+{
+    "Group": {
+        "Path": "/",
+        "CreateDate": "2014-06-05T20:29:53.622Z",
+        "GroupId": "ABCDEFGHABCDEFGHABCDE",
+        "Arn": "arn:aws:iam::123456789012:group/Admins",
+        "GroupName": "Admins"
+    }
+}
